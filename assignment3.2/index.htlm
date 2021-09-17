@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html lang="EN"> 
+	<head>
+		<title> Assignment 3.2 | Inholland </title>
+	</head>
 	<body>
-		<head>
-			<title> Assignment 3.2 | Inholland </title>
+		<header>
 			<nav>
-			</nav
-		</head>
+			</nav>
+		</header>
 		<article>
+			<p> Lorem ipsum </p>
+			<p> Lorem ipsum </p>
+			<p> Lorem ipsum </p>
+			<p> Lorem ipsum </p>
+			<p> Lorem ipsum </p>
 			<figure>
 			</figure>
 		</article>
