@@ -15,9 +15,11 @@
 			<p> Lorem ipsum </p>
 			<p> Lorem ipsum </p>
 			<figure>
+				<img src="../img/Doggo.jpg" title="figure" alt="figure">
 			</figure>
 		</article>
 		<aside>
+			<p> Lorem ipsum </p>
 		</aside>
 		<footer>
 		</footer>
