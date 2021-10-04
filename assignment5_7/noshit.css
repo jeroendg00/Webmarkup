@@ -1,0 +1,7 @@
+body
+	{
+		background-image: "img/foto2.png"; 
+		background-repeat: repeat, no-repeat;
+		background-size: 300px, cover;
+		margin-top: 50px auto;
+	}
